@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(185, 215, 216);
+}
+h3{
+    text-align: center;
+}
+.Heading{
+    font-size: 40px;
+    text-shadow: 2px 2px gray;
+    text-align:center;
+}
+::selection{
+    background-color: rgb(47, 196, 255);
+
+}
+
+.Textarea{
+    text-align: center;
+    width: 800px;
+    height: 100px;
+    margin-left:27% ;
+    border-radius: 3px;
+    border-color: black;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing:content-box;
+    padding: 5px;
+    box-shadow: 10px 10px rgba(85, 82, 82, 0.555);
+    text-overflow: clip;
+}
+.commentwrite{
+    margin: 0px;
+    text-align: center;
+}
+.Comment{
+    text-align: center;
+    line-break: auto;
+    font-size: 20px;
+    background-color: rgba(128, 128, 128, 0.336);
+    margin-left: 600px;
+    margin-right: 620px;
+    border-radius: 10px;
+    line-height: 60px;
+    
+
+}
